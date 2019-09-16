@@ -51,7 +51,7 @@ The tables are automatically created by the embedded h2 database application whe
 Clone the project onto your system and run the `ChatbotApplication.java` class. The springboot application will run as a java application and the service could be tested on any browser or postman software using the urls.
 
 ## Standard
-The test coverage we achieved was 70%
+The test coverage that we achieved was 70%.
 
 ## Support
 
